@@ -1,6 +1,6 @@
 {
   "name": "oxygen-icons",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Oxygen icon theme",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/hardboiled65/oxygen-icons.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "The Oxygen Team",
+  "license": "LGPL-3.0",
   "bugs": {
     "url": "https://github.com/hardboiled65/oxygen-icons/issues"
   },
